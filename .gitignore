@@ -1,0 +1,11 @@
+*.o
+*.mod
+*.so
+*.log
+*.status
+
+*~
+*.swp
+*.orig
+
+src/Makevars
