@@ -8,6 +8,7 @@
 
 An interface to MapReduce over MPI.
 
+This package is currently experimental, and mostly non-functional.
 
 ## Usage
 
